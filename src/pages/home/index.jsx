@@ -1,4 +1,4 @@
-import { Container, Movie, MovieList, Btn } from "./style";
+import { Container } from "./style";
 import { Link } from "react-router-dom";
 import { Autoplay } from 'swiper/modules'
 import {Swiper, SwiperSlide} from 'swiper/react'
